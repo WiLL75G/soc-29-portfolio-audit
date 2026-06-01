@@ -1,5 +1,5 @@
 # SOC Analyst Portfolio Audit
-## Analyst: James | @WilliamCyberSec | GitHub: WiLL75G
+## Analyst: William | @WilliamInCyber | GitHub: WiLL75G
 ## Date: June 2026 | Day 29 of 30
 
 ---
@@ -13,14 +13,14 @@ consistent, and professional.
 
 ---
 
-## Audit Checklist — Applied to All 28 Repos
+## Audit Checklist Applied to All 28 Repos
 
 ```
 ✅ README exists and is complete
 ✅ README follows locked-in SOC Tier 1 Incident Report template
 ✅ Repo has a description
-✅ Folder structure is clean — no empty folders
-✅ File names are consistent — no spaces or special characters
+✅ Folder structure is clean no empty folders
+✅ File names are consistent no spaces or special characters
 ✅ Screenshots are named correctly
 ✅ All GitHub links in profile README work
 ✅ MITRE ATT&CK mapping present where applicable
@@ -56,7 +56,7 @@ consistent, and professional.
 | 22 | Wazuh EDR Lab | ✅ | ✅ | ✅ | ✅ Pass |
 | 23 | Zero Trust Architecture | ✅ | ✅ | ✅ | ✅ Pass |
 | 24 | Digital Forensics Investigation | ✅ | ✅ | ✅ | ✅ Pass |
-| 25 | Threat Modeling — STRIDE & DREAD | ✅ | ✅ | ✅ | ✅ Pass |
+| 25 | Threat Modeling STRIDE & DREAD | ✅ | ✅ | ✅ | ✅ Pass |
 | 26 | SOC Metrics Dashboard | ✅ | ✅ | ✅ | ✅ Pass |
 | 27 | Compliance Framework Mapping | ✅ | ✅ | ✅ | ✅ Pass |
 | 28 | Advanced Splunk Intelligence Platform | ✅ | ✅ | ✅ | ✅ Pass |
@@ -74,14 +74,14 @@ consistent, and professional.
 2. MITRE ATT&CK mapping present in every technical project
    Shows framework knowledge that interviewers test directly
 
-3. Real tools used throughout — Splunk, Wireshark, Wazuh, AWS, Nmap
-   Not theoretical — demonstrable hands-on experience
+3. Real tools used throughout Splunk, Wireshark, Wazuh, AWS, Nmap
+   Not theoretical demonstrable hands-on experience
 
 4. Full attack chain coverage across the portfolio
-   From initial access to exfiltration — complete kill chain knowledge
+   From initial access to exfiltration complete kill chain knowledge
 
-5. Cross-platform experience — Linux, Windows, macOS, Cloud
-   Shows versatility — most SOC environments use all of these
+5. Cross-platform experience Linux, Windows, macOS, Cloud
+   Shows versatility most SOC environments use all of these
 ```
 
 ---
@@ -90,7 +90,7 @@ consistent, and professional.
 
 ```
 DETECTION ENGINEERING
-✅ Splunk SPL queries — brute force, spray, exfiltration, C2
+✅ Splunk SPL queries brute force, spray, exfiltration, C2
 ✅ MITRE ATT&CK coverage mapping
 ✅ Wazuh EDR deployment and detection
 
@@ -100,12 +100,12 @@ INCIDENT RESPONSE
 ✅ Incident response playbook (Day 9)
 
 THREAT INTELLIGENCE
-✅ OSINT investigation — VirusTotal, AbuseIPDB, Shodan (Day 14)
-✅ Threat modeling — STRIDE & DREAD (Day 25)
+✅ OSINT investigation VirusTotal, AbuseIPDB, Shodan (Day 14)
+✅ Threat modeling STRIDE & DREAD (Day 25)
 ✅ Threat hunting playbook (Day 28)
 
 NETWORK SECURITY
-✅ Wireshark PCAP analysis — real malware capture (Day 18)
+✅ Wireshark PCAP analysis real malware capture (Day 18)
 ✅ Network port scan detection (Day 3)
 ✅ Firewall rules and segmentation (Day 12)
 
@@ -114,8 +114,8 @@ CLOUD SECURITY
 ✅ Zero Trust Architecture framework (Day 23)
 
 COMPLIANCE & GOVERNANCE
-✅ Compliance framework mapping — NIST, ISO, SOC 2, GDPR (Day 27)
-✅ SOC metrics dashboard — MTTD, MTTR, KPIs (Day 26)
+✅ Compliance framework mapping NIST, ISO, SOC 2, GDPR (Day 27)
+✅ SOC metrics dashboard MTTD, MTTR, KPIs (Day 26)
 
 CAREER READINESS
 ✅ Resume-ready documentation across all 28 projects
@@ -128,12 +128,12 @@ CAREER READINESS
 ## GitHub Profile Audit
 
 ```
-✅ Profile bio updated — SOC Analyst focus
+✅ Profile bio updated SOC Analyst focus
 ✅ All 28 projects linked in profile README
 ✅ Days 29 and 30 added to project table
 ✅ Repo descriptions filled in
-✅ Pinned repos selected — best projects visible first
-✅ Consistent naming convention — soc-day01 through soc-day28
+✅ Pinned repos selected best projects visible first
+✅ Consistent naming convention soc-day01 through soc-day28
 ```
 
 ---
