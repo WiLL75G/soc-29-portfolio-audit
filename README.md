@@ -7,13 +7,13 @@
 - **Project Type:** Portfolio Quality Audit & Professional Polish
 - **Scope:** All 28 SOC analyst projects reviewed
 - **Audit Result:** 28/28 repos passed ✅
-- **Status:** Complete — Portfolio is recruiter-ready
+- **Status:** Complete Portfolio is recruiter-ready
 
 ---
 
 ## Executive Summary
 
-A full audit was conducted across all 28 projects in the SOC analyst portfolio. Every repository was reviewed against a quality checklist covering README completeness, repo descriptions, folder structure, file naming, and MITRE ATT&CK coverage. All 28 projects passed. The portfolio covers the complete SOC analyst skill stack — detection engineering, incident response, threat intelligence, network security, cloud security, and compliance — built over 30 days of consistent hands-on work.
+A full audit was conducted across all 28 projects in the SOC analyst portfolio. Every repository was reviewed against a quality checklist covering README completeness, repo descriptions, folder structure, file naming, and MITRE ATT&CK coverage. All 28 projects passed. The portfolio covers the complete SOC analyst skill stack detection engineering, incident response, threat intelligence, network security, cloud security, and compliance built over 30 days of consistent hands-on work.
 
 ---
 
@@ -72,7 +72,7 @@ Every repo was checked for:
 
 28 projects. 28 GitHub repositories. 30 days of building.
 
-This portfolio demonstrates hands-on experience with the exact tools used in real SOC environments — the ability to detect, investigate, and respond to real attack techniques — and the documentation skills that produce recruiter-ready incident reports.
+This portfolio demonstrates hands-on experience with the exact tools used in real SOC environments the ability to detect, investigate, and respond to real attack techniques and the documentation skills that produce recruiter-ready incident reports.
 
 This is not a certificate. This is evidence.
 
@@ -90,4 +90,4 @@ soc-29-portfolio-audit/
 
 ## Conclusion
 
-The 28-day SOC analyst portfolio is complete and audited. Every project is documented, linked, and recruiter-ready. The portfolio covers the full SOC analyst skill stack and is supported by a profile README that presents all 28 projects in a professional operations board format. Day 30 — OverTheWire Bandit — is the final challenge.
+The 28-day SOC analyst portfolio is complete and audited. Every project is documented, linked, and recruiter-ready. The portfolio covers the full SOC analyst skill stack and is supported by a profile README that presents all 28 projects in a professional operations board format. Day 30 OverTheWire Bandit is the final challenge.
