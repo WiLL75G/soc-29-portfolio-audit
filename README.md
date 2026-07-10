@@ -1,4 +1,4 @@
-# Day 29 – Portfolio Audit & README Polishing
+# Portfolio Audit & README Polishing
 
 ---
 
